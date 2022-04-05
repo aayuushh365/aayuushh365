@@ -1,4 +1,6 @@
-<h2>Bienvenido👋</h2>
+<div align="center">
+<h2> Salve👋<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
 
 <h3> 💻 About Me </h3>
@@ -26,4 +28,4 @@
 - <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayuushh365&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The Github Stats">
 
  
- <h2>Hasta La Vista👋</h2>
+ <h2>Good Bye and have a nice day👋</h2>
