@@ -5,22 +5,21 @@
 
 <h3> 💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently a rookie Web Developer.
-- 🤔 &nbsp; Finding New ways to Explore technologies for quick sustainment.
-- 🎓 &nbsp; Studying Computer Science Engeering
-- ✍️ &nbsp; An automobile enthusiast,keening towards J.D.M's.
-- ☕ &nbsp; Caffine is life bro. 
+- 🔭 &nbsp; I'm just starting out as a Devops Engineer.
+- 🧑‍💻&nbsp; Every day, I try to learn something new.
+- 🎓 &nbsp; Studying Computer Science Engineering
+- 💬 &nbsp; ask me about anything, i am happy to help.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C/C++|Dart
+- 💻 &nbsp; Python | C/C++|
 - 🌐 &nbsp; HTML | CSS | JavaScript |HTML5
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Canva | Visual Studio code | Git|Sublime| Android Studio
+- 🛢 &nbsp; MySQL | 
+- 🔧 &nbsp; | Visual Studio code | Git| Android Studio
 
 
 
-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayuushh365&show_icons=true&locale=en&layout=compact&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="aayuushh365" />
+- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayuushh365&show_icons=true&locale=en&layout=compact&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="aayuushh365" />
 
 
 
