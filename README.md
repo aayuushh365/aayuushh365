@@ -12,8 +12,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C/C++|
-- 🌐 &nbsp; HTML | CSS | JavaScript |HTML5
+- 💻 &nbsp; Python | C/C++| Java | 
+- 🌐 &nbsp; YAML | Docker
 - 🛢 &nbsp; MySQL | 
 - 🔧 &nbsp; | Visual Studio code | Git| Android Studio
 
